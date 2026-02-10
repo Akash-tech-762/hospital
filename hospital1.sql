@@ -1,0 +1,1 @@
+select * from hospitaldb.healthcare_dataset
